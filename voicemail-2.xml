@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-	<Say voice="woman">Your call has been forwarded to an automated voice message system. at the tone, please leave a message.</Say>
+	<Say voice="woman">Your call has been forwarded to an automated voice message system.    At the tone, please recourd your message.</Say>
 	<Record transcribe="true" transcribeCallback="http://twimlets.com/voicemail?Email=simmons.johnalan@gmail.com"/>
 </Response>
